@@ -2,6 +2,7 @@ EVERY RELEASE INCLUDES LAST LINEAGEOS UPDATES!
 
 Bugs list:
 FM Radio: not yet supported by lineageos
+RIL on dual-sim variants
 
 1st release: 20190921
 First release
