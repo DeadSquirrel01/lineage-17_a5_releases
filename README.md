@@ -11,6 +11,7 @@ Flash your variant's RIL fix zip otherwise RIL (the ability to make calls, send 
 Optional but recommended: download and flash gapps <br />
 Reboot
 
+<b>NOTE</b>: temporary: If you upgrade or reinstall lineageos 17.0 you will have to reflash gapps otherwise your device will bootloop. If you didn't install gapps, you can ignore this step
 
 <b>IMPORTANT!</b>
 

@@ -4,5 +4,13 @@ Bugs list:
 FM Radio: not yet supported by lineageos
 RIL on dual-sim variants
 
+2nd release: 20191005
+Fixed and readded double tap to wake
+Fixed screen rotation only working between bootup and device suspension
+Readded LiveDisplay and qcom thermal
+Readded audio policy
+Readded some lineageos apps
+A lot of lineageos-side changes
+
 1st release: 20190921
 First release
